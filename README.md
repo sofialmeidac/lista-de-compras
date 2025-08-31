@@ -8,12 +8,11 @@
 ---
 ## Descrição
 O código implementa um sistema completo de lista de compras com as seguintes funcionalidades:
-
--Adicionar produtos com nome, unidade de medida, quantidade, descrição e ID único
--Remover produtos através de seu ID
--Pesquisar produtos por nome
--Listar todos os produtos cadastrados
--Geração automática de IDs únicos para cada produto
+- Adicionar produtos com nome, unidade de medida, quantidade, descrição e ID único
+- Remover produtos através de seu ID
+- Pesquisar produtos por nome
+- Listar todos os produtos cadastrados
+- Geração automática de IDs únicos para cada produto
 
 ---
 ## Como Usar
